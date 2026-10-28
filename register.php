@@ -57,3 +57,6 @@ if (empty($firstname) || empty($lastname) || empty($studentid)
     alert('Failed!!! Duplicate student ID!');
     window.location = 'register.html';
     </script>";
+ }
+}
+?>
